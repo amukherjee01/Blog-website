@@ -1,2 +1,2 @@
 config.json
-settings.py
+django_project/settings.py
